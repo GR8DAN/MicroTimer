@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroTimerTest", "MicroTimerTest\MicroTimerTest.csproj", "{9F316753-FC5D-4B6C-9F01-021B61F5FE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastTimer", "FastTimer\FastTimer.csproj", "{B7462D6C-D102-4C2F-9D14-5BE9DB0BAC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F316753-FC5D-4B6C-9F01-021B61F5FE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F316753-FC5D-4B6C-9F01-021B61F5FE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F316753-FC5D-4B6C-9F01-021B61F5FE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F316753-FC5D-4B6C-9F01-021B61F5FE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7462D6C-D102-4C2F-9D14-5BE9DB0BAC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7462D6C-D102-4C2F-9D14-5BE9DB0BAC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7462D6C-D102-4C2F-9D14-5BE9DB0BAC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7462D6C-D102-4C2F-9D14-5BE9DB0BAC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0A177C6-55B3-4FF0-AF23-EB08E86A9BCA}
+	EndGlobalSection
+EndGlobal
